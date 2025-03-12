@@ -1,3 +1,6 @@
+#show password scirpt in python
+#made by | https://github.com/AntiScan1
+
 import os
 import platform
 import socket
